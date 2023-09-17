@@ -1,0 +1,13 @@
+.input, .textarea {
+  padding: 5px 10px;
+  font-size: 1.2em;
+  line-height: 1.2;
+  font-weight: 400;
+  border: 2px solid #124a32;
+  border-radius: 10px;
+}
+
+.textarea {
+  resize: none;
+  overflow: hidden;
+}
